@@ -1,0 +1,14 @@
+{
+  "name": "metabollic_scraper",
+  "version": "1.0.0",
+  "description": "An automated program to sign up to metabollic fitness classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pinglinh",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}
