@@ -9,3 +9,5 @@ This project stemmed from me having to manually sign up to the next gym class ex
 1.  To run this project, both [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) should be installed.
 1.  Run `npm install`.
 1.  Run `node index.js`.
+
+The ideal scenario for this project would be to have this deployed somewhere and have it running at a specific time then shutting down after the signup has been completed.
