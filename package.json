@@ -8,7 +8,7 @@
   },
   "author": "pinglinh",
   "license": "MIT",
-  "dependencies": {
-    "puppeteer": "^1.0.0"
+  "devDependencies": {
+    "puppeteer": "^1.8.0"
   }
 }
